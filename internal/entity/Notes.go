@@ -1,4 +1,4 @@
-package model
+package entity
 
 type Note struct {
 	Id          int    `json:"id"`

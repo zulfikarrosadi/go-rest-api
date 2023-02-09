@@ -1,4 +1,4 @@
-package helper
+package exception
 
 func PanicIfErr(err error) {
 	if err != nil {
