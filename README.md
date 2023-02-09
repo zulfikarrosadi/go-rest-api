@@ -3,7 +3,7 @@ Basic CRUD REST API using golang and postgres.
 
 > not ready to run in another environtment, cause no migrations, everything still hardcoded, etc.
 
-folder project structure follow by [Golang Standars Repo](https://github.com/golang-standars/project-layout)
+folder project structure follow by [Golang Standars Repo](https://github.com/golang-standards/project-layout)
 
 ## Todo
 - [x] CRUD Endpoint
